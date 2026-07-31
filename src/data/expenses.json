@@ -1,0 +1,51 @@
+[
+  {
+    "id": "679ca68e-8c81-4bae-9d3f-22e0e6304684",
+    "title": "Metro Card",
+    "amount": 120,
+    "category": "Transport",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "1beda78b-9216-4eea-8b3a-79d377cd7ef6",
+    "title": "Movie Ticket",
+    "amount": 350,
+    "category": "Entertainment",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "a1a0fa22-7f58-4172-afe6-42123ad03afb",
+    "title": "cricket match ticket",
+    "amount": 3050,
+    "category": "Entertainment",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "aeb9fd8b-6eb9-44e2-aeb7-caced74e950a",
+    "title": "cricket bat",
+    "amount": 4050,
+    "category": "sport",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "efa73c1f-d046-4b00-bca5-77961f19a025",
+    "title": "Pizza",
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "996a23fd-b02a-4793-b65a-33c1f54ba57d",
+    "title": "Pizza",
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "d9fecedb-35a2-42f4-a700-3c1b588f8c4a",
+    "title": "Pizza",
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-07-31"
+  }
+]
