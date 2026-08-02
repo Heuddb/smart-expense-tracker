@@ -21,7 +21,7 @@ const readFile = async () => {
     const parsedData = fileContent ? JSON.parse(fileContent) : [];
     const normalizedExpenses = normalizeExpenses(parsedData);
 
-    // Fix old data that may have been saved as one object instead of an array.
+
     if (!Array.isArray(parsedData)) {
       await writeFile(normalizedExpenses);
     }
