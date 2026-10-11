@@ -27,6 +27,7 @@ A RESTful Expense Tracker API built using **Node.js** and **Express.js**. The AP
 - Supertest
 - Swagger UI
 - swagger-jsdoc
+- Postman (Api testing)
 
 ---
 
